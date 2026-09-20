@@ -114,31 +114,29 @@ if (contactForm) {
 // SCROLL ANIMATION
 // ================================
 
-const sections =
-    document.querySelectorAll("section");
+const progressBars =
+    document.querySelectorAll(".progress");
 
-const observer =
+const progressObserver =
     new IntersectionObserver(function (entries) {
 
         entries.forEach(function (entry) {
 
             if (entry.isIntersecting) {
 
-                entry.target.classList.add("show");
+                entry.target.style.width =
+                    getComputedStyle(entry.target).width;
 
             }
 
         });
 
     }, {
-        threshold: 0.15
+        threshold: 0.5
     });
 
-
-sections.forEach(function (section) {
-
-    observer.observe(section);
-
+progressBars.forEach(function (bar) {
+    progressObserver.observe(bar);
 });
 
 
