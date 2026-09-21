@@ -3,8 +3,8 @@
 Welcome to my personal portfolio website! 🚀
 
 This portfolio showcases my **skills, projects, certificates, internship experience, and contact information** as a B.Tech Computer Science Engineering student and aspiring software developer.
-Live App
-🌐 [Click here](https://my-portfolio-beige-theta-wvu0vx6ex5.vercel.app/)
+
+🌐 **Live App:** https://my-portfolio-beige-theta-wvu0vx6ex5.vercel.app/
 
 ---
 
