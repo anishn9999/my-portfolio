@@ -4,8 +4,7 @@ Welcome to my personal portfolio website! 🚀
 
 This portfolio showcases my **skills, projects, certificates, internship experience, and contact information** as a B.Tech Computer Science Engineering student and aspiring software developer.
 
-🌐 **Live Portfolio:**
-Live app(https://my-portfolio-beige-theta-wvu0vx6ex5.vercel.app)
+🌐 **Live App:** https://my-portfolio-beige-theta-wvu0vx6ex5.vercel.app/
 
 ---
 
@@ -64,7 +63,7 @@ An AI-powered platform designed to help women improve their financial literacy t
 * MongoDB
 * AI Chatbot
 
-**Planned/implemented features include:**
+**Features:**
 
 * Financial education
 * Budget calculator
@@ -88,8 +87,6 @@ A simple and responsive calculator web application created to practice frontend 
 ---
 
 ## 📜 Certifications
-
-Some of my learning and certification areas include:
 
 * MongoDB Basics for Students
 * Professional Networking for Career Growth
@@ -124,15 +121,6 @@ Vercel
 
 ---
 
-## 📸 Portfolio Preview
-
-Visit the live website to explore my complete portfolio:
-
-👉 **Live Demo:**
-https://my-portfolio-beige-theta-wvu0vx6ex5.vercel.app/
-
----
-
 ## 📁 Project Structure
 
 ```text
@@ -144,5 +132,59 @@ portfolio/
 │
 ├── images/
 │   ├── profile.jpg
-│   └── project-ima
+│   └── project-images/
+│
+└── README.md
 ```
+
+---
+
+## ⚙️ Run Locally
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd portfolio
+```
+
+Then open `index.html` in your browser.
+
+---
+
+## 🌐 Live App
+
+https://my-portfolio-beige-theta-wvu0vx6ex5.vercel.app/
+
+---
+
+## 📈 Future Improvements
+
+* Add more projects
+* Add downloadable resume
+* Improve animations
+* Add backend contact form
+* Add more certifications
+* Add dark/light mode
+* Add project filtering
+* Improve accessibility and SEO
+
+---
+
+## 📬 Contact
+
+**Anish Kumar**
+
+💻 GitHub: Add your GitHub profile link
+🔗 LinkedIn: Add your LinkedIn profile link
+📧 Email: Add your professional email
+
+---
+
+## ⭐ Support
+
+If you like this portfolio, consider giving the repository a ⭐ on GitHub!
+
+---
+
+### Made with ❤️ by Anish Kumar
+
+**B.Tech Computer Science Engineering Student | Aspiring Software Developer**
